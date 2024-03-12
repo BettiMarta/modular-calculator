@@ -1,6 +1,7 @@
 # Modular Calculator
 
 A simple calculator toolkit written in Python, with several UIs.
+I even added a c button later
 
 ## Remarks
 
