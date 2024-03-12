@@ -1,4 +1,4 @@
-# Calculator
+# Modular Calculator
 
 A simple calculator toolkit written in Python, with several UIs.
 
